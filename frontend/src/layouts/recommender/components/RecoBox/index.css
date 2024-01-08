@@ -1,0 +1,22 @@
+/* .onHover:hover {
+    transform: scale(1.02);
+    box-shadow: 0 0 3px rgba(33,33,33,.2); 
+} */
+
+.onHover:hover {
+    transform: scale(1.08, 1.08);
+  }
+  
+  /* Fade in the pseudo-element with the bigger shadow */
+.onHover:hover::after {
+    opacity: 1;
+}
+
+/* .onHover {
+    cursor: pointer;
+} */
+
+.float_right {
+    float: right;
+}
+
