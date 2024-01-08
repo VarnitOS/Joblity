@@ -1,0 +1,641 @@
+{
+    "jobs": {
+        "Cashier": {
+            "jobdesc": "We are looking for a Cashier to manage all transactions with customers accurately and efficiently. Cashier responsibilities include receiving payments and issuing receipts, gift-wrapping packages and keeping track of all cash and credit transactions. To be successful in this role, you should have previous experience in a customer service position and good knowledge of how cash registers operate. You should also be available to take evening and weekend shifts occasionally.\nUltimately, you’ll ensure all transactions run smoothly and will help us maximize customer satisfaction.",
+            "qualifications": [
+                "Friendly and positive attitude",
+                "Excellent customer service",
+                "Excellent communication skills",
+                "Ability to make change",
+                "Basic math skills",
+                "Attention to detail",
+                "High school diploma or equivalent desired",
+                "0-1 years of retail experience desired"
+            ],
+            "disability": [
+                "Wheelchair Accessible: Yes",
+                "Suitable For: Physical Disabilities",
+                "Available Assistive Technologies: Wheelchair, Rollator, Guiderails, Guidesticks",
+                "Employee Insurance: Available",
+                "Transport to Workplace: Provided",
+                "Disability Support Staff: Available"
+            ]
+        },
+        "Waiter": {
+            "jobdesc": "We are looking for a skilled Waiter or Waitress to take orders and deliver food and beverages to our customers.\nThe right Waiter/Waitress uplifts the dining experience for customers. We are looking for someone who will have the patience, personality and perseverance to thrive in this role.\nWaiter/Waitress responsibilities include greeting and serving customers, providing detailed information on menus, multi-tasking various front-of-the-house duties and collecting the bill. If you are able to perform well in fast-paced environments, we’d like to meet you. To be a successful Waiter or Waitress, you should be polite with our customers and make sure they enjoy their meals. You should also be a team player and be able to effectively communicate with our Kitchen Staff to make sure orders are accurate and delivered promptly.\nKeep in mind that Waiter/Waitress duties may require working in shifts and/or occasionally during weekends and holidays.\nUltimately, it is the duty of our Waiters/Waitresses to provide an excellent overall dining experience for our guests.",
+            "qualifications": [
+                "Proven work experience as a Waiter or Waitress",
+                "Hands-on experience with cash register and ordering information system (e.g. Revel POS or Toast POS)",
+                "Basic math skills",
+                "Attentiveness and patience for customers",
+                "Excellent presentation skills",
+                "Strong organizational and multitasking skills, with the ability to perform well in a fast-paced environment",
+                "Active listening and effective communication skills",
+                "Team spirit",
+                "Flexibility to work in shifts",
+                "High school diploma; food safety training is a plus"
+            ],
+            "disability": [
+                "Wheelchair Accessible: No",
+                "Suitable For: Mild Autism",
+                "Available Assistive Technologies: None",
+                "Employee Insurance: Available",
+                "Transport to Workplace: Provided",
+                "Disability Support Staff: Available"
+            ]
+        },
+        "Call Center Worker": {
+            "jobdesc": "We are looking for a Call Center Representative that will be the liaison between our company and its current and potential customers. The successful candidate will be able to accept ownership for effectively solving customer issues, complaints and inquiries; keeping customer satisfaction at the core of every decision and behavior.",
+            "qualifications": [
+                "Previous experience in a customer support role",
+                "Track record of over-achieving quota",
+                "Strong phone and verbal communication skills along with active listening",
+                "Familiarity with CRM systems and practices",
+                "Customer focus and adaptability to different personality types",
+                "Ability to multi-task, set priorities and manage time effectively",
+                "High school degree"
+            ],
+            "disability": [
+                "Wheelchair Accessible: Yes",
+                "Suitable For: Physical and Visual Disabilities, Mild Autism",
+                "Available Assistive Technologies: Wheelchair, Rollator, Guiderails, Guidesticks, Screen Reader",
+                "Employee Insurance: Available",
+                "Transport to Workplace: Provided",
+                "Disability Support Staff: Available"
+            ]
+        },
+        "Customer Service": {
+            "jobdesc": "We are hiring a customer service representative to manage customer queries and complaints. You will also be asked to process orders, modifications, and escalate complaints across a number of communication channels. To do well in this role you need to be able to remain calm when customers are frustrated and have experience working with computers.\nAs a Customer Service Representative, you will act as a liaison, provide product/services information, answer questions, and resolve any emerging problems that our customer accounts might face with accuracy and efficiency. The best CSRs are genuinely excited to help customers. They’re patient, empathetic, and passionately communicative. Customer service representatives can put themselves in their customers’ shoes and advocate for them when necessary.",
+            "qualifications": [
+                "Proven customer support experience or experience as a Client Service Representative",
+                "Track record of over-achieving quota",
+                "Strong phone contact handling skills and active listening",
+                "Familiarity with CRM systems and practices",
+                "Customer orientation and ability to adapt/respond to different types of characters",
+                "Excellent communication and presentation skills",
+                "Ability to multi-task, prioritize, and manage time effectively",
+                "High school diploma"
+            ],
+            "disability": [
+                "Wheelchair Accessible: Yes",
+                "Suitable For: Physical and Visual Disabilities",
+                "Available Assistive Technologies: Wheelchair, Rollator, Guiderails, Guidesticks, Screen Reader",
+                "Employee Insurance: Available",
+                "Transport to Workplace: Provided",
+                "Disability Support Staff: Available"
+            ]
+        },
+        "Bank Teller": {
+            "jobdesc": "We are looking for a liable Bank Teller to process all transactions accurately and efficiently in accordance with established policies and procedures. The successful candidate will be the “frontline” of our bank and will play a fundamental role in achieving our customer satisfaction and revenue growth objectives. You must be comfortable making dozens of transactions daily, communicate with different types of clients and sell bank’s products/services.",
+            "qualifications": [
+                "Proven working experience in banking, personal banking, retail banking or financial services",
+                "Basic PC knowledge and familiarity with electronic equipment (e.g. cash drawers, receipt validators, money counters)",
+                "Strong communication and time management skills",
+                "Customer satisfaction-oriented",
+                "Attention to detail and mathematical skills",
+                "Excellent sales skills",
+                "BS in Finance, Banking or relevant field"
+            ],
+            "disability": [
+                "Wheelchair Accessible: Yes",
+                "Suitable For: Physical and Visual Disabilities",
+                "Available Assistive Technologies: Wheelchair, Rollator, Guiderails, Guidesticks, Screen Reader",
+                "Employee Insurance: Available",
+                "Transport to Workplace: Provided",
+                "Disability Support Staff: Available"
+            ]
+        },
+        "Frontline Sales": {
+            "jobdesc": "We are looking for a competitive and trustworthy Sales Executive to help us build up our business activities.\nSales Executive responsibilities include discovering and pursuing new sales prospects, negotiating deals and maintaining customer satisfaction. If you have excellent communication skills and feel comfortable reaching out to potential customers to demonstrate our services and products through email and phone, we’d like to meet you.\nUltimately, you’ll help us meet and surpass business expectations and contribute to our company’s rapid and sustainable growth.",
+            "qualifications": [
+                "Proven experience as a Sales Executive or relevant role",
+                "Proficiency in English",
+                "Excellent knowledge of MS Office",
+                "Hands-on experience with CRM software is a plus",
+                "Thorough understanding of marketing and negotiating techniques",
+                "Fast learner and passion for sales",
+                "Self-motivated with a results-driven approach",
+                "Aptitude in delivering attractive presentations",
+                "High school degree"
+            ],
+            "disability": [
+                "Wheelchair Accessible: Yes",
+                "Suitable For: Physical and Visual Disabilities",
+                "Available Assistive Technologies: Wheelchair, Rollator, Guiderails, Guidesticks, Screen Reader",
+                "Employee Insurance: Available",
+                "Transport to Workplace: Provided",
+                "Disability Support Staff: Available"
+            ]
+        },
+        "Factory/General Worker": {
+            "jobdesc": "We are looking for a factory worker to join our team and help improve our warehouse’s production line.\nYou’ll perform various tasks, including maintaining and operating the machinery and search for potential malfunctions or risks. You’ll transfer the products and equipment, using power tools and forklift trucks. You’ll also keep the facility clean by removing debris and trash to ensure safety. Note that this position demands stamina and a good physical condition, as you’ll have to regularly lift heavy loads.\nIf you are familiar with these tasks and interested in working at a well-functioning warehouse, let’s meet.",
+            "qualifications": [
+                "Previous experience as a factory worker or similar role in a warehouse",
+                "Good understanding of how production equipment works",
+                "Ability to detect potential problems with machinery",
+                "Knowledge of basic safety rules and precautionary measures  (safety gear will be provided)",
+                "Ability to lift heavy loads and transfer them manually",
+                "Good communication and teamwork skills"
+            ],
+            "disability": [
+                "Wheelchair Accessible: No",
+                "Suitable For: Hearing Disabilities and Autism",
+                "Available Assistive Technologies: Hearing Aids",
+                "Employee Insurance: Available",
+                "Transport to Workplace: Provided",
+                "Disability Support Staff: Available"
+            ]
+        },
+        "Food Processing Worker": {
+            "jobdesc": "Our company is looking for highly dependable team players to join our staff as food processing workers. If you’ve always been fascinated with the process of industrial food products and are committed to supporting our brand’s reputation for excellent snack products, then this is the place for you. Food processing workers are responsible for working in the food production line and load ingredients into industrial baking equipment. They also monitor the machinery during the cooking and mixing process to make sure our product quality standards are being met. We offer attractive pay and unlimited snack samples to our workers, so consider joining us today!",
+            "qualifications": [
+                "Previous experience as a food processing worker or similar role in a warehouse",
+                "Ability to follow all appropriate safety standards in food production",
+                "Knowledge of reading comprehension skills",
+                "Experience working in food production or in an industrial kitchen",
+                "Knowledge of quality assurance practices"
+            ],
+            "disability": [
+                "Wheelchair Accessible: No",
+                "Suitable For: Hearing Disabilities and Autism",
+                "Available Assistive Technologies: Hearing Aids",
+                "Employee Insurance: Available",
+                "Transport to Workplace: Provided",
+                "Disability Support Staff: Available"
+            ]
+        },
+        "Packing Worker": {
+            "jobdesc": "We are looking for a highly organized packer to prepare items for shipping. The Packer is responsible for cleaning shipping containers, labeling items and packing items into the shipping containers.\nTo be successful as a packer you must have attention to detail and the ability to organize items. A good packer is efficient and careful not to damage items.",
+            "qualifications": [
+                "Physical strength and stamina",
+                "Previous experience as a food processing worker or similar role in a warehouse",
+                "Attention to detail",
+                "Excellent organizational skills",
+                "Good communication and teamwork skills"
+            ],
+            "disability": [
+                "Wheelchair Accessible: No",
+                "Suitable For: Hearing Disabilities and Autism",
+                "Available Assistive Technologies: Hearing Aids",
+                "Employee Insurance: Available",
+                "Transport to Workplace: Provided",
+                "Disability Support Staff: Available"
+            ]
+        },
+        "Manufacturing Worker": {
+            "jobdesc": "We are looking for a manufacturing worker to join our team and help improve our warehouse’s production line.\nYou’ll perform various tasks, including maintaining and operating the machinery and search for potential malfunctions or risks. You’ll transfer the products and equipment, using power tools and forklift trucks. You’ll also keep the facility clean by removing debris and trash to ensure safety. Note that this position demands stamina and a good physical condition, as you’ll have to regularly lift heavy loads.\nIf you are familiar with these tasks and interested in working at a well-functioning warehouse, let’s meet.",
+            "qualifications": [
+                "Previous experience as a manufacturing worker or similar role in a warehouse",
+                "Good understanding of how production equipment works",
+                "Ability to detect potential problems with machinery",
+                "Knowledge of basic safety rules and precautionary measures  (safety gear will be provided)",
+                "Ability to lift heavy loads and transfer them manually",
+                "Good communication and teamwork skills"
+            ],
+            "disability": [
+                "Wheelchair Accessible: No",
+                "Suitable For: Hearing Disabilities and Autism",
+                "Available Assistive Technologies: Hearing Aids",
+                "Employee Insurance: Available",
+                "Transport to Workplace: Provided",
+                "Disability Support Staff: Available"
+            ]
+        },
+        "Data Entry": {
+            "jobdesc": "We are looking for a Data Entry Operator to update and maintain information on our company databases and computer systems.\nData Entry Operator responsibilities include collecting and entering data in databases and maintaining accurate records of valuable company information. Our ideal candidate has essential data entry skills, like fast typing with an eye for detail and familiarity with spreadsheets and online forms. You will work with a data team and Data Manager. Previous experience as a Data Entry Clerk or similar position will be considered an advantage.\nUltimately, a successful Data Entry Operator will be responsible for maintaining accurate, up-to-date and useable information in our systems.",
+            "qualifications": [
+                "Proven data entry work experience, as a Data Entry Operator or Office Clerk",
+                "Experience with MS Office and data programs",
+                "Familiarity with administrative duties",
+                "Experience using office equipment, like fax machine and scanner",
+                "Typing speed and accuracy",
+                "Excellent knowledge of correct spelling, grammar and punctuation",
+                "Attention to detail",
+                "Confidentiality",
+                "Organization skills, with an ability to stay focused on assigned tasks",
+                "High school diploma; additional computer training or certification will be an asset"
+            ],
+            "disability": [
+                "Wheelchair Accessible: Yes",
+                "Suitable For: Physical and Hearing Disabilities, Autism",
+                "Available Assistive Technologies: Wheelchair, Rollator, Guiderails, Guidesticks",
+                "Employee Insurance: Available",
+                "Transport to Workplace: Provided",
+                "Disability Support Staff: Available"
+            ]
+        },
+        "Data Processing Clerk": {
+            "jobdesc": "We are looking for a Data Processing Operator to update and maintain information on our company databases and computer systems.\nData Processing Operator responsibilities include collecting and entering data in databases and maintaining accurate records of valuable company information. Our ideal candidate has essential data processing skills, like fast typing with an eye for detail and familiarity with spreadsheets and online forms. You will work with a data team and Data Manager. Previous experience as a Data Processing Clerk or similar position will be considered an advantage.\nUltimately, a successful Data Processing Operator will be responsible for maintaining accurate, up-to-date and useable information in our systems.",
+            "qualifications": [
+                "Proven data processing work experience, as a Data Processing Operator or Office Clerk",
+                "Experience with MS Office and data programs",
+                "Familiarity with administrative duties",
+                "Experience using office equipment, like fax machine and scanner",
+                "Typing speed and accuracy",
+                "Excellent knowledge of correct spelling, grammar and punctuation",
+                "Attention to detail",
+                "Confidentiality",
+                "Organization skills, with an ability to stay focused on assigned tasks",
+                "High school diploma; additional computer training or certification will be an asset"
+            ],
+            "disability": [
+                "Wheelchair Accessible: Yes",
+                "Suitable For: Physical and Hearing Disabilities, Autism",
+                "Available Assistive Technologies: Wheelchair, Rollator, Guiderails, Guidesticks",
+                "Employee Insurance: Available",
+                "Transport to Workplace: Provided",
+                "Disability Support Staff: Available"
+            ]
+        },
+        "Data Analyst": {
+            "jobdesc": "We are looking for a passionate certified Data Analyst. The successful candidate will turn data into information, information into insight and insight into business decisions.\nResponsibilities include conducting full lifecycle analysis to include requirements, activities and design. Data analysts will develop analysis and reporting capabilities. They will also monitor performance and quality control plans to identify improvements.",
+            "qualifications": [
+                "Proven working experience as a Data Analyst or Business Data Analyst",
+                "Technical expertise regarding data models, database design development, data mining and segmentation techniques",
+                "Strong knowledge of and experience with reporting packages (Business Objects etc), databases (SQL etc), programming (XML, Javascript, or ETL frameworks)",
+                "Knowledge of statistics and experience using statistical packages for analyzing datasets (Excel, SPSS, SAS etc)",
+                "Strong analytical skills with the ability to collect, organize, analyze, and disseminate significant amounts of information with attention to detail and accuracy",
+                "Adept at queries, report writing and presenting findings",
+                "BS in Mathematics, Economics, Computer Science, Information Management or Statistics"
+            ],
+            "disability": [
+                "Wheelchair Accessible: Yes",
+                "Suitable For: Physical and Hearing Disabilities, Autism",
+                "Available Assistive Technologies: Wheelchair, Rollator, Guiderails, Guidesticks",
+                "Employee Insurance: Available",
+                "Transport to Workplace: Provided",
+                "Disability Support Staff: Available"
+            ]
+        },
+        "Business Analyst": {
+            "jobdesc": "We are hiring a business analyst to join our project team. You will work alongside other business analysts and report directly to the project manager. Your main tasks will include performing detailed requirements analysis, documenting processes, and performing some user acceptance testing. To succeed in this role you should have a natural analytical way of thinking and be able to explain difficult concepts to non-technical users.",
+            "qualifications": [
+                "A bachelor’s degree in business or related field or an MBA.",
+                "A minimum of 5 years of experience in business analysis or a related field.",
+                "Exceptional analytical and conceptual thinking skills.",
+                "The ability to influence stakeholders and work closely with them to determine acceptable solutions.",
+                "Advanced technical skills.",
+                "Excellent documentation skills.",
+                "Fundamental analytical and conceptual thinking skills.",
+                "Experience creating detailed reports and giving presentations.",
+                "Competency in Microsoft applications including Word, Excel, and Outlook.",
+                "A track record of following through on commitments.",
+                "Excellent planning, organizational, and time management skills.",
+                "Experience leading and developing top-performing teams.",
+                "A history of leading and supporting successful projects."
+            ],
+            "disability": [
+                "Wheelchair Accessible: Yes",
+                "Suitable For: Physical and Hearing Disabilities, Autism",
+                "Available Assistive Technologies: Wheelchair, Rollator, Guiderails, Guidesticks",
+                "Employee Insurance: Available",
+                "Transport to Workplace: Provided",
+                "Disability Support Staff: Available"
+            ]
+        },
+        "Data Engineer": {
+            "jobdesc": "We are looking for an experienced data engineer to join our team. You will use various methods to transform raw data into useful data systems. For example, you’ll create algorithms and conduct statistical analysis. Overall, you’ll strive for efficiency by aligning data systems with business goals.\nTo succeed in this data engineering position, you should have strong analytical skills and the ability to combine data from different sources. Data engineer skills also include familiarity with several programming languages and knowledge of learning machine methods.\nIf you are detail-oriented, with excellent organizational skills and experience in this field, we’d like to hear from you.",
+            "qualifications": [
+                "Previous experience as a data engineer or in a similar role",
+                "Technical expertise with data models, data mining, and segmentation techniques",
+                "Knowledge of programming languages  (e.g. Java and Python)",
+                "Hands-on experience with SQL database design",
+                "Great numerical and analytical skills",
+                "Degree in Computer Science, IT, or similar field; a Master’s is a plus",
+                "Data engineering certification (e.g IBM Certified Data Engineer) is a plus"
+            ],
+            "disability": [
+                "Wheelchair Accessible: Yes",
+                "Suitable For: Physical and Hearing Disabilities, Autism",
+                "Available Assistive Technologies: Wheelchair, Rollator, Guiderails, Guidesticks",
+                "Employee Insurance: Available",
+                "Transport to Workplace: Provided",
+                "Disability Support Staff: Available"
+            ]
+        },
+        "IT Help Desk": {
+            "jobdesc": "We are looking for a competent Help desk technician to provide fast and useful technical assistance on computer systems. You will answer queries on basic technical issues and offer advice to solve them.\nAn excellent Help desk technician must have good technical knowledge and be able to communicate effectively to understand the problem and explain its solution. They must also be customer-oriented and patient to deal with difficult customers.\nThe goal is to create value for clients that will help preserve the company’s reputation and business.",
+            "qualifications": [
+                "Proven experience as a help desk technician or other customer support role",
+                "Tech savvy with working knowledge of office automation products, databases and remote control",
+                "Good understanding of computer systems, mobile devices and other tech products",
+                "Ability to diagnose and resolve basic technical issues",
+                "Proficiency in English",
+                "Excellent communication skills",
+                "Customer-oriented and cool-tempered"
+            ],
+            "disability": [
+                "Wheelchair Accessible: Yes",
+                "Suitable For: Physical and Hearing Disabilities, Autism",
+                "Available Assistive Technologies: Wheelchair, Rollator, Guiderails, Guidesticks",
+                "Employee Insurance: Available",
+                "Transport to Workplace: Provided",
+                "Disability Support Staff: Available"
+            ]
+        },
+        "Web Developer": {
+            "jobdesc": "We are looking for a skilled web developer who will be responsible for developing and/or designing websites for our company. You will be working alongside a team of other developers in creating, maintaining, and updating our websites.\nIn order for you to succeed in this role, you will need to be proficient in JavaScript, HTML, CSS, and have solid knowledge and experience in programming applications",
+            "qualifications": [
+                "Proven working experience in web programming",
+                "Top-notch programming skills and in-depth knowledge of modern HTML/CSS",
+                "Familiarity with at least one of the following programming languages: PHP, ASP.NET, Javascript or Ruby on Rails",
+                "A solid understanding of how web applications work including security, session management, and best development practices",
+                "Adequate knowledge of relational database systems, Object Oriented Programming and web application development",
+                "Hands-on experience with network diagnostics, network analytics tools",
+                "Basic knowledge of Search Engine Optimization process",
+                "Aggressive problem diagnosis and creative problem solving skills",
+                "Strong organizational skills to juggle multiple tasks within the constraints of  timelines and budgets with business acumen",
+                "Ability to work and thrive in a fast-paced environment, learn rapidly and master diverse web technologies and techniques",
+                "BS in computer science or a related field"
+            ],
+            "disability": [
+                "Wheelchair Accessible: Yes",
+                "Suitable For: Physical and Hearing Disabilities, Autism",
+                "Available Assistive Technologies: Wheelchair, Rollator, Guiderails, Guidesticks",
+                "Employee Insurance: Available",
+                "Transport to Workplace: Provided",
+                "Disability Support Staff: Available"
+            ]
+        },
+        "Advertising Copywriter": {
+            "jobdesc": "We are looking for a creative Copywriter to write clear and concise copy for ads, publications and websites. Your words will inform and engage target audiences.\nOur ideal candidate is a team-spirited, skilled and imaginative writer with an eye for detail. If you can grasp project requirements quickly and offer valuable insight, we’d like to meet you.\nSubmit up to three writing samples, so we can get an idea of your best work. Feel free to include links to your content or portfolio in your application.",
+            "qualifications": [
+                "Proven experience as a copywriter or related role",
+                "Knowledge of online content strategy and creation",
+                "Excellent writing, editing and proofreading skills",
+                "Experience with SEO",
+                "Strong research skills",
+                "Creativity",
+                "Collaborative spirit",
+                "Excellent time-management and organizational skills",
+                "BSc/BA in marketing, English, journalism or related field"
+            ],
+            "disability": [
+                "Wheelchair Accessible: Yes",
+                "Suitable For: Physical and Hearing Disabilities",
+                "Available Assistive Technologies: Wheelchair, Rollator, Guiderails, Guidesticks",
+                "Employee Insurance: Available",
+                "Transport to Workplace: Provided",
+                "Disability Support Staff: Available"
+            ]
+        },
+        "Marketing Copywriter": {
+            "jobdesc": "We are looking for a creative Copywriter to write clear and concise copy for ads, publications and websites. Your words will inform and engage target audiences.\nOur ideal candidate is a team-spirited, skilled and imaginative writer with an eye for detail. If you can grasp project requirements quickly and offer valuable insight, we’d like to meet you.\nSubmit up to three writing samples, so we can get an idea of your best work. Feel free to include links to your content or portfolio in your application.",
+            "qualifications": [
+                "Proven experience as a copywriter or related role",
+                "Knowledge of online content strategy and creation",
+                "Excellent writing, editing and proofreading skills",
+                "Experience with SEO",
+                "Strong research skills",
+                "Creativity",
+                "Collaborative spirit",
+                "Excellent time-management and organizational skills",
+                "BSc/BA in marketing, English, journalism or related field"
+            ],
+            "disability": [
+                "Wheelchair Accessible: Yes",
+                "Suitable For: Physical and Hearing Disabilities",
+                "Available Assistive Technologies: Wheelchair, Rollator, Guiderails, Guidesticks",
+                "Employee Insurance: Available",
+                "Transport to Workplace: Provided",
+                "Disability Support Staff: Available"
+            ]
+        },
+        "Advertising Staff": {
+            "jobdesc": "We are looking for a passionate advertising staff to plan and oversee the organization’s advertising activities and campaigns. You will be the one to ensure that all advertising operations are successful in meeting the goals set by management.\nA successful advertising staff must have great enthusiasm for all things advertising and great knowledge of relevant techniques and principles. The ideal candidate will also be an excellent communicator and will have experience in managing different advertising ventures.\nThe goal is to ensure that the advertising efforts of the company add the highest value to its business.",
+            "qualifications": [
+                "Proven experience as advertising staff or similar role",
+                "Solid knowledge of advertising techniques and principles",
+                "Good understanding of market research techniques, statistical and data analysis methods",
+                "Thorough understanding of social media and web analytics",
+                "Excellent organizational and multi-tasking skills",
+                "Outstanding communication and interpersonal abilities",
+                "Creativity and commercial awareness",
+                "A team player with a customer-oriented approach",
+                "BSc/BA in marketing, business administration or relevant field"
+            ],
+            "disability": [
+                "Wheelchair Accessible: Yes",
+                "Suitable For: Physical and Hearing Disabilities",
+                "Available Assistive Technologies: Wheelchair, Rollator, Guiderails, Guidesticks",
+                "Employee Insurance: Available",
+                "Transport to Workplace: Provided",
+                "Disability Support Staff: Available"
+            ]
+        },
+        "Marketing Staff": {
+            "jobdesc": "We are looking for a passionate Marketing staff to plan and oversee the organization’s marketing activities and campaigns. You will be the one to ensure that all marketing operations are successful in meeting the goals set by management.\nA successful Marketing staff must have great enthusiasm for all things marketing and great knowledge of relevant techniques and principles. The ideal candidate will also be an excellent communicator and will have experience in managing different marketing ventures.\nThe goal is to ensure that the marketing efforts of the company add the highest value to its business.",
+            "qualifications": [
+                "Proven experience as marketing staff or similar role",
+                "Solid knowledge of marketing techniques and principles",
+                "Good understanding of market research techniques, statistical and data analysis methods",
+                "Excellent knowledge of MS Office and marketing software (e.g. CRM)",
+                "Thorough understanding of social media and web analytics",
+                "Excellent organizational and multi-tasking skills",
+                "Outstanding communication and interpersonal abilities",
+                "Creativity and commercial awareness",
+                "A team player with a customer-oriented approach",
+                "BSc/BA in marketing, business administration or relevant field"
+            ],
+            "disability": [
+                "Wheelchair Accessible: Yes",
+                "Suitable For: Physical and Hearing Disabilities",
+                "Available Assistive Technologies: Wheelchair, Rollator, Guiderails, Guidesticks",
+                "Employee Insurance: Available",
+                "Transport to Workplace: Provided",
+                "Disability Support Staff: Available"
+            ]
+        },
+        "Admin Assistant": {
+            "jobdesc": "We are looking for a responsible Administrative Assistant to perform a variety of administrative and clerical tasks. Duties of the Administrative Assistant include providing support to our managers and employees, assisting in daily office needs and managing our company’s general administrative activities.",
+            "qualifications": [
+                "Proven experience as an Administrative Assistant, Virtual Assistant or Office Admin Assistant",
+                "Knowledge of office management systems and procedures",
+                "Working knowledge of office equipment, like printers and fax machines",
+                "Proficiency in MS Office (MS Excel and MS PowerPoint, in particular)",
+                "Excellent time management skills and the ability to prioritize work",
+                "Attention to detail and problem solving skills",
+                "Excellent written and verbal communication skills",
+                "Strong organizational skills with the ability to multi-task",
+                "High School degree; additional qualification as an Administrative assistant or Secretary will be a plus"
+            ],
+            "disability": [
+                "Wheelchair Accessible: Yes",
+                "Suitable For: Physical, Motor, Hearing, Visual, Autism, Intellectual Disabilities",
+                "Available Assistive Technologies: Wheelchair, Rollator, Guiderails, Guidesticks",
+                "Employee Insurance: Available",
+                "Transport to Workplace: Provided",
+                "Disability Support Staff: Available"
+            ]
+        },
+        "HR Staff": {
+            "jobdesc": "We are looking for HR Staff to undertake a variety of HR administrative duties. The HR Staff duties involve a wide range of support activities inside our HR department, from coordinating meetings to maintaining our employee database to posting job ads. An important part of your role will be to act as the liaison between HR and employees, ensuring smooth communication and prompt resolution of requests and questions. You’ll also assist in creating policies, processes and documents.",
+            "qualifications": [
+                "Proven experience as an HR Assistant, Staff Assistant or relevant human resources/administrative position",
+                "Fast computer typing skills (MS Office, in particular)",
+                "Hands-on experience with an HRIS or HRMS",
+                "Familiarity with ATS software and resume databases",
+                "Basic knowledge of labor laws",
+                "Excellent organizational skills",
+                "Strong communications skills",
+                "Degree in Human Resources or related field"
+            ],
+            "disability": [
+                "Wheelchair Accessible: Yes",
+                "Suitable For: Physical, Motor, Hearing, Visual, Autism, Intellectual Disabilities",
+                "Available Assistive Technologies: Wheelchair, Rollator, Guiderails, Guidesticks",
+                "Employee Insurance: Available",
+                "Transport to Workplace: Provided",
+                "Disability Support Staff: Available"
+            ]
+        },
+        "Research Assistant": {
+            "jobdesc": "We are seeking a passionate, detail-oriented Research Assistant to aid our project by preparing interviews and summarizing results. You will also work with undergraduate students on the team who can help bring your expertise into their papers as they complete them for publication in top academic journals. \nUltimately, you will be responsible for managing multiple tasks, but understand when one is more important than another to complete it on time.",
+            "qualifications": [
+                "Proven work experience as a Research Assistant or similar role",
+                "Excellent administrative skills",
+                "Knowledge of research methods",
+                "Ability to work under pressure",
+                "Excellent time management skills",
+                "A degree in the field related to the study is preferred"
+            ],
+            "disability": [
+                "Wheelchair Accessible: Yes",
+                "Suitable For: Physical, Motor, Hearing, Visual, Autism, Intellectual Disabilities",
+                "Available Assistive Technologies: Wheelchair, Rollator, Guiderails, Guidesticks",
+                "Employee Insurance: Available",
+                "Transport to Workplace: Provided",
+                "Disability Support Staff: Available"
+            ]
+        },
+        "Personal Assistant": {
+            "jobdesc": "We are looking for a responsible Personal Assistant to provide personalized secretarial and administrative support in a well-organized and timely manner. You will work on a one-to-one basis on a variety of tasks related to manager’s working life and communication. Responsibilities include acting as the point of contact between manager and internal/external clients, screening and directing phone calls and distributing correspondence, handling requests and queries approproately, and sourcing office supplies.",
+            "qualifications": [
+                "Proven work experience as a Personal Assistant",
+                "Knowledge of office management systems and procedures",
+                "MS Office and English proficiency",
+                "Outstanding organisational and time management skills",
+                "Up-to-date with latest office gadgets and applications",
+                "Ability to multitask and prioritize daily workload",
+                "Excellent verbal and written communications skills",
+                "Discretion and confidentiality",
+                "High School degree",
+                "PA diploma or certification would be considered an advantage"
+            ],
+            "disability": [
+                "Wheelchair Accessible: Yes",
+                "Suitable For: Physical, Motor, Hearing, Visual, Autism, Intellectual Disabilities",
+                "Available Assistive Technologies: Wheelchair, Rollator, Guiderails, Guidesticks",
+                "Employee Insurance: Available",
+                "Transport to Workplace: Provided",
+                "Disability Support Staff: Available"
+            ]
+        },
+        "Flyer Distributer": {
+            "jobdesc": "We are looking for a driven Flyer Distributer to hand out flyers to promote events, venues, or establishments. Duties include handing out flyers to the general public at strategically chosen locations, distributing flyers through residential front doors or to businesses, having an in depth knowledge of the information they are handing out and be a point of information for people with queries, being enthusiastic about the event or establishment they are promoting and covering as many people/houses as they can in order to market as widely as possible.",
+            "qualifications": [
+                "be enthusiastic and polite",
+                "be able to handle public confrontation effectively and calmly to diffuse potentially difficult situations",
+                "speak English to a high standard",
+                "have the capacity to remember information regarding their promotion and be able to answer questions eloquently",
+                "be able to work in teams to calculate the most efficient way to cover ground",
+                "be prepared to work outside in all types of weather",
+                "persevere despite set backs or rejections",
+                "be physically fit in regards to delivery door to door",
+                "be confident and assertive"
+            ],
+            "disability": [
+                "Wheelchair Accessible: No",
+                "Suitable For: Physical, Hearing, Autism, Intellectual Disabilities",
+                "Available Assistive Technologies: Guiderails",
+                "Employee Insurance: Available",
+                "Transport to Workplace: Provided",
+                "Disability Support Staff: Available"
+            ]
+        },
+        "Mailman": {
+            "jobdesc": "We are looking for a hardworking and passionate Mailman to deliver letters, documents and parcels to businesses and homes. Responsibilities include travelling planned routes on foot or by truck, collecting outgoing mail along route, and when necessary, collects money for postage due, sorting mail, including packages, according to delivery sequence, loading sacks and boxes filled with mail onto and off mail truck, maintaining logs to monitor delivery rates and vehicle maintenance scheduling, and Obtains signatures on registered, insured, and certified mail.",
+            "qualifications": [
+                "Organizational skills",
+                "Attention to detail",
+                "Efficiency",
+                "Physical stamina and strength",
+                "Integrity and respect for confidentiality and privacy",
+                "Ability to read and understand English with high degree of proficiency",
+                "Good communication, interpersonal, and customer service skills",
+                "Depending on route, must be able to lift and carry heavy sacks of mail and walk long distances"
+            ],
+            "disability": [
+                "Wheelchair Accessible: No",
+                "Suitable For: Physical, Hearing, Autism, Intellectual Disabilities",
+                "Available Assistive Technologies: Guiderails",
+                "Employee Insurance: Available",
+                "Transport to Workplace: Provided",
+                "Disability Support Staff: Available"
+            ]
+        },
+        "Delivery Staff": {
+            "jobdesc": "We are looking for a responsible Delivery Staff to distribute products promptly to our customers. You will represent our company in a professional and cost-effective manner to increase our profitability and customer satisfaction. Responsibilites include delivering a wide variety of items to different addresses and through different routes, following routes and time schedule, loading, unloading, preparing, inspecting and operating a delivery vehicle.",
+            "qualifications": [
+                "Proven working experience as a Delivery Driver",
+                "Valid professional driver’s license",
+                "Ability to operate forklifts and tractors in a variety of weather and traffic conditions",
+                "Excellent organizational and time management skills",
+                "Good driving record with no traffic violations",
+                "High school degree"
+            ],
+            "disability": [
+                "Wheelchair Accessible: No",
+                "Suitable For: Physical, Hearing, Autism, Intellectual Disabilities",
+                "Available Assistive Technologies: Guiderails",
+                "Employee Insurance: Available",
+                "Transport to Workplace: Provided",
+                "Disability Support Staff: Available"
+            ]
+        },
+        "Delivery Personnel": {
+            "jobdesc": "We are looking for a reliable delivery driver who is concerned with customer satisfaction and transporting items in a safe, timely manner. The delivery driver will pick up and drop off items while adhering to assigned routes and time schedules. You should be willing to work as part of the delivery team in order to ensure that the items are complete, packed correctly, and safely delivered to the correct client.\nTo succeed as a delivery driver, you should be polite and prompt with a commitment to providing our clients with an excellent experience. You should be thorough in ensuring orders are properly fulfilled, committed to work safety, and passionate about satisfying clients.",
+            "qualifications": [
+                "High school diploma or equivalent.",
+                "Valid driver's license issued by the state where you intend to work.",
+                "Clean driving record.",
+                "Special licenses may be required to operate certain vehicles.",
+                "Experience may be required or preferred.",
+                "Willingness to adhere to assigned routes, schedules, safety procedures, and transportation laws.",
+                "Strong time management and customer service skills.",
+                "Ability to walk, drive, and lift and carry heavy items for extended periods.",
+                "Attention to detail."
+            ],
+            "disability": [
+                "Wheelchair Accessible: No",
+                "Suitable For: Physical, Hearing, Autism, Intellectual Disabilities",
+                "Available Assistive Technologies: Guiderails",
+                "Employee Insurance: Available",
+                "Transport to Workplace: Provided",
+                "Disability Support Staff: Available"
+            ]
+        },
+        "Truck Driver": {
+            "jobdesc": "We are looking for an experienced Truck Driver to serve our supply chain logistics department in a safe and timely manner. Responsibilities include transporting finished goods and raw materials over land to and from manufacturing plants or retail and distribution centers, inspecting vehicles for mechanical items and safety issues and perform preventative maintenance, planning routes and meeting delivery schedules",
+            "qualifications": [
+                "Proven work experience as a Truck Driver",
+                "Hands on experience with electronic equipment and software (GPS, AVL units, CB etc)",
+                "Ability to drive long hours and travel regularly",
+                "Extensive knowledge of applicable truck driving rules and regulations",
+                "No recent moving or driving violations",
+                "Adaptability and foresight to handle unexpected situations (traffic, weather conditions etc)",
+                "Willing to submit to background/drug checks and provide employment recommendations",
+                "Trucking school diploma",
+                "Valid truck driving licence"
+            ],
+            "disability": [
+                "Wheelchair Accessible: No",
+                "Suitable For: Physical, Hearing, Autism, Intellectual Disabilities",
+                "Available Assistive Technologies: Guiderails",
+                "Employee Insurance: Available",
+                "Transport to Workplace: Provided",
+                "Disability Support Staff: Available"
+            ]
+        }
+    }
+}
