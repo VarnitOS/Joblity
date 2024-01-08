@@ -15,4 +15,4 @@ torch==1.13.1
 torchaudio==0.10.2+cpu
 torchvision==0.11.3+cpu
 typing-extensions==4.1.1
-Werkzeug==2.0.3
+Werkzeug==2.3.8
