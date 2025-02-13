@@ -1,9 +1,17 @@
+import os
+import sys
+# Add parent directory to Python path
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
 import numpy as np
 import pandas as pd
 
 from utils.pwd_utils import get_job_vector
 
 def run(args):
+    # Create data directory if it doesn't exist
+    os.makedirs('data', exist_ok=True)
+    
     # Generate X - numpy array of shape (n_examples, n_questions), filled with 0s and 1s 
     n_examples = args.n_examples
     n_questions = 8

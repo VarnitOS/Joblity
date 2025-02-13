@@ -1,14 +1,19 @@
+import os
+import sys
+# Add parent directory to Python path
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
 import random
 import numpy as np
 import pandas as pd
 import torch
-from utils import net
+from utils.net import NeuralNetwork
 from utils.pwd_utils import get_job_vector, print_difficulties, print_negated_jobs
 
 def run(args):
 
     # Set up NN model
-    model = net.NeuralNetwork()
+    model = NeuralNetwork()
     model.load_state_dict(torch.load(args.model_weights))
     model.eval()
 

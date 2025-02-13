@@ -1,14 +1,21 @@
+import os
+import sys
+# Add parent directory to Python path correctly
+current_dir = os.path.dirname(os.path.abspath(__file__))
+backend_dir = os.path.dirname(current_dir)  # Get the backend directory
+sys.path.append(backend_dir)  # Add backend directory to Python path
+
 import random
 import numpy as np
 import pandas as pd
 import torch
 import json
-from utils import net
+from utils.net import NeuralNetwork
 from utils.pwd_utils import print_difficulties, print_negated_jobs, get_valid_jobs, get_full_list_of_jobs
 from utils.pwd_utils import get_valid_companies
 
 # Set up NN model
-model = net.NeuralNetwork()
+model = NeuralNetwork()
 model.load_state_dict(torch.load('./weights/model_weights.pth', map_location=torch.device('cpu')))
 model.eval()
 

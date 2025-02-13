@@ -3,7 +3,7 @@ import pandas as pd
 import torch
 from torch.utils.data import Dataset
 
-device = 'cuda' if torch.cuda.is_available() else 'cpu'
+device = 'cpu'  # Force CPU instead of CUDA
 
 class PwdJobsDataset(Dataset):
     def __init__(self, X_file, Y_file, transform=None, target_transform=None):

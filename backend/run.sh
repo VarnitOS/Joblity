@@ -2,5 +2,4 @@
 
 CUDA_VISIBLE_DEVICES=1      \
     python main.py          \
-
-    # >.log/train.log 2>&1 &  \
+    > .log/train.log 2>&1 &  \
